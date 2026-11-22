@@ -1,0 +1,8 @@
+.venv/
+.cache/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+exports/
+config/*.lock
+config/.presets-*

@@ -1,0 +1,23 @@
+{
+  "Gym_High_Energy": {
+    "font_size": 76, "text_color": "#F6FF57", "box_color": "#141414",
+    "caption_position": 72, "silence_threshold": -35, "min_silence": 0.35,
+    "badge": true, "music_volume": 17, "loudness": -14, "font_style": "Bold"
+  },
+  "Healthy_Diet_Prep": {
+    "font_size": 62, "text_color": "#FFF4DE", "box_color": "#734536",
+    "caption_position": 73, "silence_threshold": -38, "min_silence": 0.65,
+    "badge": true, "music_volume": 10, "loudness": -16, "font_style": "Sans"
+  },
+  "Tech_and_Dev": {
+    "font_size": 59, "text_color": "#EDF6FF", "box_color": "#172033",
+    "caption_position": 74, "silence_threshold": -37, "min_silence": 0.55,
+    "badge": false, "music_volume": 8, "loudness": -16, "font_style": "Sans"
+  },
+  "Quran_and_Educational": {
+    "font_size": 82, "text_color": "#FFF1CA", "box_color": "#203B32",
+    "caption_position": 67, "silence_threshold": -42, "min_silence": 1.20,
+    "badge": false, "music_volume": 0, "loudness": -20, "font_style": "Arabic",
+    "language": "Arabic"
+  }
+}
